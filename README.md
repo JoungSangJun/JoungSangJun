@@ -23,6 +23,6 @@
 g메일 추가 노션 추가 velog로 블로그 바꾸기
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoungSangJun)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungSangJun&&show_icons=true&theme=vue)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungSangJun)](https://github.com/anuraghazra/github-readme-stats)
   </div>
