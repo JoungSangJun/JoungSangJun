@@ -27,4 +27,8 @@ g메일 추가 노션 추가 velog로 블로그 바꾸기
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungSangJun)](https://github.com/anuraghazra/github-readme-stats)
   
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gogumi4502)](https://solved.ac/gogumi4502)
+  
+   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=gogumi4502&theme=warm)
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
   </div>
