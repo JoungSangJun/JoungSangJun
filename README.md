@@ -37,7 +37,7 @@
 <div align="center">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gogumi4502)](https://solved.ac/gogumi4502)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=gogumi4502&theme=warm)
+
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
